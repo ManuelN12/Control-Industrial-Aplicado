@@ -8,6 +8,7 @@ Enunciado: [`Enunciado_Actividad_EC1.pdf`](Enunciado_Actividad_EC1.pdf)
 |---|---|
 | `Ejercicio3_masa_resorte.vi` | VI principal: simulador del sistema |
 | `SubVI_Integrator.vi` | SubVI de integración por Euler, usado dos veces (aceleración → velocidad → posición) |
+| `Memoria_Actividad_EC1.docx` | Memoria completa en Word, con las respuestas y simulaciones de las tareas 1 a 6 |
 
 ---
 
@@ -128,16 +129,16 @@ Polos: $s = -0{,}1 \pm 0{,}3j$. Son complejos con parte real negativa: sistema *
 
 ## Tarea 3. Influencia de la masa m
 
-*Pendiente.*
+Ver `Memoria_Actividad_EC1.docx`.
 
 ## Tarea 4. Influencia de la constante del muelle K_F
 
-*Pendiente.*
+Ver `Memoria_Actividad_EC1.docx`.
 
 ## Tarea 5. Influencia de la constante de amortiguamiento D
 
-*Pendiente.*
+Ver `Memoria_Actividad_EC1.docx`.
 
 ## Tarea 6. Influencia de la fuerza F
 
-*Pendiente.*
+Ver `Memoria_Actividad_EC1.docx`.

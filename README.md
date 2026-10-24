@@ -6,7 +6,7 @@ Prácticas de la asignatura **Control Industrial Aplicado** (Universidad de Deus
 
 | Carpeta | Actividad | Estado |
 |---|---|---|
-| [`Tarea1_Masa_Muelle_Amortiguador`](Tarea1_Masa_Muelle_Amortiguador) | Actividad EC1: simulador de un sistema masa-muelle-amortiguador | En curso |
+| [`Tarea1_Masa_Muelle_Amortiguador`](Tarea1_Masa_Muelle_Amortiguador) | Actividad EC1: simulador de un sistema masa-muelle-amortiguador | Terminada |
 
 ## Requisitos
 
