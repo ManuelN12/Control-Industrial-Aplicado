@@ -6,8 +6,11 @@ Enunciado: [`Enunciado_Actividad_EC1.pdf`](Enunciado_Actividad_EC1.pdf)
 
 | Archivo | Descripción |
 |---|---|
+| `MasaMuelle.lvproj` | Proyecto de LabVIEW con el VI principal y el SubVI |
 | `Ejercicio3_masa_resorte.vi` | VI principal: simulador del sistema |
 | `SubVI_Integrator.vi` | SubVI de integración por Euler, usado dos veces (aceleración → velocidad → posición) |
+| `Entrega_EC1_MasaMuelle.zip` | Paquete entregado: `.lvproj` + VI principal + SubVI |
+| `imagenes/` | Esquema, cuadro de la masa e icono usados en el panel frontal |
 | `Memoria_Actividad_EC1.docx` | Memoria completa en Word, con las respuestas y simulaciones de las tareas 1 a 6 |
 
 ---
